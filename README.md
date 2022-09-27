@@ -1,4 +1,4 @@
-# Project Name : **Drum Kit Music** 
+# Project Name : **Stopwatch App** 
 ![badge](https://img.shields.io/badge/iNeuron-LCO-green) ![badge](https://img.shields.io/badge/Hitesh--Choudhary-Full%20Stack%20Javascript%20Course-orange)
 
 This project developed with pure HTML and TailwindCSS mainly focused on Pure Javascript. <br/>
@@ -28,11 +28,11 @@ A Stopwatch app which starts by pressing the button start and stop by stop butto
 
 ### You can Check it Live on Below Link :
 
-[Live Link !](https://drum-kit-music-app-js.netlify.app/)
+[Live Link !](https://new-stopwatch-app-js.netlify.app/)
 
 ### Demo :
 
-![App Image](https://github.com/anitha-nagadasarink/drum-kit/blob/Javascript-projects/images/demo.PNG)
+![App Image](https://github.com/anitha-nagadasarink/stopwatch/blob/Javascript-projects/images/demo.PNG)
 
 
 
